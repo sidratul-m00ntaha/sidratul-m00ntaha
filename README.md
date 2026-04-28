@@ -94,7 +94,7 @@ class SidratulMuntaha:
 [![Diabetes Risk](https://github-readme-stats.vercel.app/api/pin/?username=sidratul-m00ntaha&repo=diabetes-risk-ensemble&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/sidratul-m00ntaha/diabetes-risk-ensemble)
 
 [![Rainfall Prediction](https://github-readme-stats.vercel.app/api/pin/?username=sidratul-m00ntaha&repo=Rainfall-Prediction-ML&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/sidratul-m00ntaha/Rainfall-Prediction-ML)
-[![Hall Room Allocation](https://github-readme-stats.vercel.app/api/pin/?username=sidratul-m00ntaha&repo=Hall-Room-Allocation&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/sidratul-m00ntaha/Hall-Room-Allocation)
+[![One Day Job](https://github-readme-stats.vercel.app/api/pin/?username=sidratul-m00ntaha&repo=One-Day-Job&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/sidratul-m00ntaha/One-Day-Job)
 
 </div>
 
@@ -107,10 +107,10 @@ class SidratulMuntaha:
 | [🧠 NeuralNoodles-CHiPSAL-2026](https://github.com/sidratul-m00ntaha/NeuralNoodles-CHiPSAL-2026) | Late-Fusion Multimodal Stacking for Nepali Meme Sentiment — **6th place globally** | `Python` `Multimodal` `NLP` |
 | [💉 Diabetes Risk Ensemble](https://github.com/sidratul-m00ntaha/diabetes-risk-ensemble) | Domain-driven ensemble ML for multi-class diabetes risk prediction & clinical decision support | `Python` `Scikit-Learn` `Healthcare AI` |
 | [🌧️ Rainfall Prediction ML](https://github.com/sidratul-m00ntaha/Rainfall-Prediction-ML) | Multi-model classification comparison for weather prediction | `Jupyter` `ML` `Data Science` |
-| [😶‍🌫️ Multimodal Sentiment Analysis](https://github.com/sidratul-m00ntaha/multimodel-sentimenta-analysis) | Multimodal approaches to sentiment understanding | `Python` `NLP` `Multimodal` |
 | [⚡ Energy Dashboard](https://github.com/sidratul-m00ntaha/energy-dashboard) | Interactive real-time energy analytics dashboard | `JavaScript` `Dashboard` |
 | [🏨 Hall Room Allocation](https://github.com/sidratul-m00ntaha/Hall-Room-Allocation) | Terminal-based hostel allocation system for CUET management | `Bash` `Shell` |
 | [📚 Geron ML Practice](https://github.com/sidratul-m00ntaha/Hands-On-Machine-Learning-Geron-Practice) | Chapter-by-chapter implementations from "Hands-On ML" | `Jupyter` `TF` `Scikit-Learn` |
+| [💎 LibraJewelry](https://github.com/sidratul-m00ntaha/LibraJewelry) | E-commerce style web app for jewelry showcasing and product interaction | `Django` `Python` `Full-Stack` |
 | [📝 Blog App — Django](https://github.com/sidratul-m00ntaha/blog-project-using-Django) | Full-stack blog with models, views, templates & URL routing | `Django` `Python` `Full-Stack` |
 
 <br/>
