@@ -47,8 +47,7 @@ class SidratulMuntaha:
             "but intuitive, interpretable, and impactful."
         )
 
-    def fun_fact(self) -> str:
-        return "Debate champion turned AI researcher 🎤→🤖"
+    
 ```
 
 <br/>
@@ -65,10 +64,6 @@ class SidratulMuntaha:
 | 📄 **Research Paper Accepted** — IEEE WIECON-ECE 2025 (ML-based Weather Classification) | 2025 |
 | 🧠 **Top 11 Finalist (National)** — Mindful Futures STEM Case Competition (85 teams) | 2026 |
 | 🥈 **1st Runner-Up** — Cyber Defence Innovation Challenge | 2024 |
-| 🎤 **Champion** — BTV Inter-School Debate Competition | — |
-| 👩‍💼 **House Leader** — CDA Public School & College (Rabindra House) | 2017–18 |
-| 🌟 **Best Student of the Year** | — |
-
 </div>
 
 ## 🔬 Research Contributions
@@ -85,20 +80,6 @@ class SidratulMuntaha:
 <br/>
 
 ---
-
-## 🔬 Research & Featured Projects
-
-<div align="center">
-
-[![NeuralNoodles](https://github-readme-stats.vercel.app/api/pin/?username=sidratul-m00ntaha&repo=NeuralNoodles-CHiPSAL-2026&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/sidratul-m00ntaha/NeuralNoodles-CHiPSAL-2026)
-[![Diabetes Risk](https://github-readme-stats.vercel.app/api/pin/?username=sidratul-m00ntaha&repo=diabetes-risk-ensemble&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/sidratul-m00ntaha/diabetes-risk-ensemble)
-
-[![Rainfall Prediction](https://github-readme-stats.vercel.app/api/pin/?username=sidratul-m00ntaha&repo=Rainfall-Prediction-ML&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/sidratul-m00ntaha/Rainfall-Prediction-ML)
-[![One Day Job](https://github-readme-stats.vercel.app/api/pin/?username=sidratul-m00ntaha&repo=One-Day-Job&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/sidratul-m00ntaha/One-Day-Job)
-
-</div>
-
-<br/>
 
 ### 🗂️ All Notable Work
 
