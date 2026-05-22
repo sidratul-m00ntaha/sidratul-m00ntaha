@@ -52,49 +52,6 @@ class SidratulMuntaha:
 
 <br/>
 
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| 🏅 Achievement | 🗓️ |
-|---|---|
-| 🤖 **6th Place (International)** — LREC 2026 Shared Task (Multimodal Meme Sentiment Analysis) | 2026 |
-| 📄 **Research Paper Accepted** — IEEE WIECON-ECE 2025 (ML-based Weather Classification) | 2025 |
-| 🧠 **Top 11 Finalist (National)** — Mindful Futures STEM Case Competition (85 teams) | 2026 |
-| 🥈 **1st Runner-Up** — Cyber Defence Innovation Challenge | 2024 |
-</div>
-
-## 🔬 Research Contributions
-
-- **LREC 2026 Shared Task**
-  - Late-Fusion Multimodal Stacking for Nepali meme sentiment analysis
-  - Combined textual + visual features for implicit sentiment understanding
-  - Ranked **6th internationally**
-
-- **IEEE WIECON-ECE 2025**
-  - "A Machine Learning Approach for Multi-Class Global Weather Classification"
-  - Feature engineering using mutual-information-driven selection
-
-<br/>
-
----
-
-### 🗂️ All Notable Work
-
-| Project | What it does | Stack |
-|---|---|---|
-| [🧠 NeuralNoodles-CHiPSAL-2026](https://github.com/sidratul-m00ntaha/NeuralNoodles-CHiPSAL-2026) | Late-Fusion Multimodal Stacking for Nepali Meme Sentiment — **6th place globally** | `Python` `Multimodal` `NLP` |
-| [💉 Diabetes Risk Ensemble](https://github.com/sidratul-m00ntaha/diabetes-risk-ensemble) | Domain-driven ensemble ML for multi-class diabetes risk prediction & clinical decision support | `Python` `Scikit-Learn` `Healthcare AI` |
-| [🌧️ Rainfall Prediction ML](https://github.com/sidratul-m00ntaha/Rainfall-Prediction-ML) | Multi-model classification comparison for weather prediction | `Jupyter` `ML` `Data Science` |
-| [⚡ Energy Dashboard](https://github.com/sidratul-m00ntaha/energy-dashboard) | Interactive real-time energy analytics dashboard | `JavaScript` `Dashboard` |
-| [🏨 Hall Room Allocation](https://github.com/sidratul-m00ntaha/Hall-Room-Allocation) | Terminal-based hostel allocation system for CUET management | `Bash` `Shell` |
-| [📚 Geron ML Practice](https://github.com/sidratul-m00ntaha/Hands-On-Machine-Learning-Geron-Practice) | Chapter-by-chapter implementations from "Hands-On ML" | `Jupyter` `TF` `Scikit-Learn` |
-| [💎 LibraJewelry](https://github.com/sidratul-m00ntaha/LibraJewelry) | E-commerce style web app for jewelry showcasing and product interaction | `Django` `Python` `Full-Stack` |
-| [📝 Blog App — Django](https://github.com/sidratul-m00ntaha/blog-project-using-Django) | Full-stack blog with models, views, templates & URL routing | `Django` `Python` `Full-Stack` |
-
-<br/>
 
 ---
 
@@ -119,7 +76,6 @@ class SidratulMuntaha:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧰 Tools & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -128,72 +84,6 @@ class SidratulMuntaha:
 
 <br/>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidratul-m00ntaha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidratul-m00ntaha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sidratul-m00ntaha&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Sidratul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sidratul-m00ntaha&bg_color=1a1b27&color=6366f1&line=8b5cf6&point=06b6d4&area=true&hide_border=true)](https://github.com/sidratul-m00ntaha)
-
-</div>
-
-<br/>
-
-<!-- ─────────────────────────────────────────────────────────────
-     SNAKE ANIMATION SETUP
-     After creating your profile repo, add this GitHub Action:
-
-     File: .github/workflows/snake.yml
-     ─────────────────────────────────────────────────────────────
-     name: Generate Snake
-     on:
-       schedule: [{ cron: "0 0 * * *" }]
-       workflow_dispatch:
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: sidratul-m00ntaha
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     ─────────────────────────────────────────────────────────────
-     Then uncomment the line below once the Action has run once:
-     ───────────────────────────────────────────────────────────── -->
-
-
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidratul-m00ntaha/sidratul-m00ntaha/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidratul-m00ntaha/sidratul-m00ntaha/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sidratul-m00ntaha/sidratul-m00ntaha/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
--->
 
 ---
 
@@ -213,22 +103,6 @@ class SidratulMuntaha:
 ## 🎓 Education & Certifications
 ```
 🎓  B.Sc. Computer Science & Engineering  —  CUET           (2023 – Present)
-🏫  HSC Science  —  Govt. Haji Muhammad Mohsin College      (2019 – 2021)
-
-📜  Kaggle Python Certification
-📜  Supervised Learning with Scikit-Learn  —  DataCamp
-📜  Understanding Machine Learning  —  DataCamp
-📜  Phase 0 — A Deep Introduction to Programming
-📜  Aptis English Certification
-📜  Spoken English Course
-
-🏅  IEEE WIECON-ECE 2025
-     Certificate of Appreciation — Paper Presentation
-
-🏅  IEEE CUET WIE Affinity Group
-     STEM Future Leaders Program — Participation
-
-🏅  MUN Training — Introduction to Model United Nations
 
 ```
 
