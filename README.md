@@ -100,7 +100,7 @@ class SidratulMuntaha:
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education 
 ```
 🎓  B.Sc. Computer Science & Engineering  —  CUET           (2023 – Present)
 
