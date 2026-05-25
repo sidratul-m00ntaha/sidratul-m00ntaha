@@ -112,14 +112,6 @@ class SidratulMuntaha:
 
 ### 🤝 Let's build something meaningful together
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidratulmuntaha-58861b265)
-[![Email](https://img.shields.io/badge/smuntaha226%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smuntaha226@gmail.com)
-
-<br/>
-
-*"The best research is the kind that doesn't stay in a paper."* ✨
-
-<br/>
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer" />
