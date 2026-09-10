@@ -1,56 +1,47 @@
-<div align="center">
+# Hi, I'm Sidratul Muntaha
 
-<img src="cat.gif" width="140" alt="Animated cat" />
+<img src="cat.gif" width="130" align="right" alt="Small animated cat" />
 
-# Hi, I'm Sidratul Muntaha 🐾
+**Computer Science & Engineering undergraduate — CUET**
 
-**Computer Science & Engineering Undergraduate @ CUET**
+I build intelligent systems and the ordinary software that has to hold them up.
+Most of my time goes to machine learning, computer vision, and language, and I
+take part in technology competitions and research projects alongside coursework.
 
-*I enjoy building intelligent systems, exploring machine learning, and developing software that solves real-world problems.*
+<br clear="right" />
 
-</div>
+## ✦ What I work on
 
-## ✦ Interests
+- Machine learning and artificial intelligence
+- Computer vision and vision-language models
+- Natural language processing
+- Full-stack development
+- Research and experimentation
 
-- 🤖 Machine Learning & Artificial Intelligence
-- 👁️ Computer Vision & VLM
-- 💬 Natural Language Processing
-- 🌐 Full-Stack Development
-- 🔬 Research & Innovation
+## ✦ Tools
 
-## ✦ Tech Stack
+**Languages** &nbsp;`Python` &nbsp;`C++` &nbsp;`JavaScript` &nbsp;`SQL`
 
-**Languages:** `Python` · `C++` · `JavaScript` · `SQL`
+**Frameworks & tooling** &nbsp;`Django` &nbsp;`React` &nbsp;`Next.js` &nbsp;`Git` &nbsp;`Linux`
 
-**Frameworks & Tools:** `Django` · `React` · `Next.js` · `Git` · `Linux`
-
-## ✦ Currently Exploring
+## ✦ Currently exploring
 
 | Area | Focus |
-|---|---|
-| 🧠 VLM | Vision-Language Models |
-| 🎭 Multimodal AI | Cross-modal understanding |
-| 👀 Computer Vision | Visual perception systems |
-| 🔧 Research Engineering | Bridging theory & practice |
-
-## ✦ Highlights
-
-> 🏆 Active participant in technology competitions and research projects
+| --- | --- |
+| LLMs | Large language models |
+| Multimodal AI | Cross-modal understanding |
+| Computer vision | Visual perception systems |
+| Research engineering | Bridging theory and practice |
 
 ## ✦ Goal
 
-> *"To bridge research and engineering by building impactful AI-driven solutions."*
+I want to keep working where research meets engineering — taking ideas that look
+good on paper and making them run reliably enough to be useful.
 
-## ✦ Connect
+## ✦ Elsewhere
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sidratul%20Muntaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidratulmuntaha-58861b265)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidratulmuntaha-58861b265)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-smuntaha226%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smuntaha226@gmail.com)
+[![Email](https://img.shields.io/badge/smuntaha226%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:smuntaha226@gmail.com)
 
-</div>
-
-<div align="center">
-  <sub>🐾 &nbsp; Learning, building, and improving — one project at a time. &nbsp; 🐾</sub>
-</div>
+<sub>🐾 Learning, building, and improving — one project at a time.</sub>
