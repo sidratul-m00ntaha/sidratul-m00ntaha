@@ -1,47 +1,30 @@
-# Hi, I'm Sidratul Muntaha
+<img src="cat.gif" width="120" align="right" alt="Small animated cat" />
 
-<img src="cat.gif" width="130" align="right" alt="Small animated cat" />
+### Sidratul Muntaha
 
-**Computer Science & Engineering undergraduate — CUET**
+Computer Science & Engineering - CUET
 
-I build intelligent systems and the ordinary software that has to hold them up.
-Most of my time goes to machine learning, computer vision, and language, and I
-take part in technology competitions and research projects alongside coursework.
+I build intelligent systems, and the ordinary software that has to hold them up.
+Machine learning, computer vision, and language - plus the competitions and
+research projects that happen around coursework.
 
 <br clear="right" />
 
-## ✦ What I work on
+---
 
-- Machine learning and artificial intelligence
-- Computer vision and vision-language models
-- Natural language processing
-- Full-stack development
-- Research and experimentation
+**Working on** &nbsp;·&nbsp; vision-language models &nbsp;·&nbsp; NLP &nbsp;·&nbsp; full-stack systems &nbsp;·&nbsp; research experiments
 
-## ✦ Tools
+**Reaching for** &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; multimodal understanding &nbsp;·&nbsp; visual perception &nbsp;·&nbsp; research engineering
 
-**Languages** &nbsp;`Python` &nbsp;`C++` &nbsp;`JavaScript` &nbsp;`SQL`
+**Building with** &nbsp;·&nbsp; `Python` &nbsp;`C++` &nbsp;`JavaScript` &nbsp;`SQL` &nbsp;·&nbsp; `Django` &nbsp;`React` &nbsp;`Next.js` &nbsp;`Git` &nbsp;`Linux`
 
-**Frameworks & tooling** &nbsp;`Django` &nbsp;`React` &nbsp;`Next.js` &nbsp;`Git` &nbsp;`Linux`
+---
 
-## ✦ Currently exploring
+> Ideas that look good on paper are the easy half.
+> I care about the other half - making them run reliably enough to be useful.
 
-| Area | Focus |
-| --- | --- |
-| LLMs | Large language models |
-| Multimodal AI | Cross-modal understanding |
-| Computer vision | Visual perception systems |
-| Research engineering | Bridging theory and practice |
+<br />
 
-## ✦ Goal
+[LinkedIn](https://www.linkedin.com/in/sidratulmuntaha-58861b265) &nbsp;·&nbsp; [smuntaha226@gmail.com](mailto:smuntaha226@gmail.com)
 
-I want to keep working where research meets engineering — taking ideas that look
-good on paper and making them run reliably enough to be useful.
-
-## ✦ Elsewhere
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidratulmuntaha-58861b265)
-&nbsp;
-[![Email](https://img.shields.io/badge/smuntaha226%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:smuntaha226@gmail.com)
-
-<sub>🐾 Learning, building, and improving — one project at a time.</sub>
+<sub>🐾 one project at a time.</sub>
