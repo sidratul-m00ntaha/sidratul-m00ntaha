@@ -1,4 +1,4 @@
-<img src="mischievous-cat.svg" width="120" align="right" alt="Small animated cat" />
+<img src="cat.png" width="200" align="right" alt="Small animated cat" />
 
 ### Sidratul Muntaha
 
