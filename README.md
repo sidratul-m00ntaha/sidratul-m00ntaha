@@ -4,19 +4,18 @@
 
 Computer Science & Engineering - CUET
 
-I build intelligent systems, and the ordinary software that has to hold them up.
-Machine learning, computer vision, and language - plus the competitions and
-research projects that happen around coursework.
+I build machine learning systems and the software that keeps them running.
+I work on research projects and competitions alongside my coursework.
 
 <br clear="right" />
 
 ---
 
-**Working on** &nbsp;·&nbsp; vision-language models &nbsp;·&nbsp; NLP &nbsp;·&nbsp; full-stack systems &nbsp;·&nbsp; research experiments
+**Focus**
+Vision-language models · NLP · Multimodal AI · Full-stack systems
 
-**Reaching for** &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; multimodal understanding &nbsp;·&nbsp; visual perception &nbsp;·&nbsp; research engineering
-
-**Building with** &nbsp;·&nbsp; `Python` &nbsp;`C++` &nbsp;`JavaScript` &nbsp;`SQL` &nbsp;·&nbsp; `Django` &nbsp;`React` &nbsp;`Next.js` &nbsp;`Git` &nbsp;`Linux`
+**Tech**
+`Python` `C++` `JavaScript` `SQL` · `Django` `FastAPI` `React` `Next.js` · `Git` `Linux`
 
 ---
 
@@ -27,4 +26,4 @@ research projects that happen around coursework.
 
 [LinkedIn](https://www.linkedin.com/in/sidratulmuntaha-58861b265) &nbsp;·&nbsp; [smuntaha226@gmail.com](mailto:smuntaha226@gmail.com)
 
-<sub>🐾 one project at a time.</sub>
+<sub>Wa ma tawfiqi illa billah: "My success is only with Allah." (Quran 11:88)</sub>
