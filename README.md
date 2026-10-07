@@ -11,10 +11,10 @@ I work on research projects and competitions alongside my coursework.
 
 ---
 
-**Focus**
+**Focus:**
 Vision-language models · NLP · Multimodal AI · Full-stack systems
 
-**Tech**
+**Tech:**
 `Python` `C++` `JavaScript` `SQL` · `Django` `FastAPI` `React` `Next.js` · `Git` `Linux`
 
 ---
