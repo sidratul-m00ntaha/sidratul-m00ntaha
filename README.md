@@ -26,7 +26,7 @@ I work on research projects and competitions alongside my coursework.
 
 -𝗡𝗟𝗣 & 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵: `Transformer Models`, `Text Classification`, `Context-Aware Learning`, `XAI`, `Multimodal Learning`
 
--𝗧𝗼𝗼𝗹𝘀 & 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀: `Git`, `GitHub`, `Linux`, `Docker`, `Jupyter Notebook`, `Google Colab`, `Kaggle`
+-𝗧𝗼𝗼𝗹𝘀 & 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀: `Git`, `GitHub`, `Linux`, `Docker`,`Illustrator`, `Jupyter Notebook`, `Google Colab`, `Kaggle`
 
 #### Research Interests
 
